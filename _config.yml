@@ -22,7 +22,7 @@ title: Hearing Evaluation | Cedar Rapids Hearing Center
 email: your-email@example.com
 description: 'Call (319) 409-7919 today! Our mission is to provide our patients with the best possible hearing solutions.'
 baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://allwinjoseph.github.io/cedar-hearing-evaluation' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
